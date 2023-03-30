@@ -1,0 +1,51 @@
+img {
+    width: 50%;
+}
+
+a {
+    color: black;
+    line-height: 1.5;
+}
+
+html {
+    font-size: 21px;
+}
+
+article {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+figure {
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 0.5em;
+    font-size: 16px;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+/* Created assistant classes to avoid repetition of code. */
+.gray {
+    color: gray;
+}
+
+.ff-sans {
+    font-family: sans-serif;
+}
+
+blockquote {
+    font-size: 1.7em;
+}
+
+h1, h2, h3, blockquote {
+    line-height: 1.2;
+}
